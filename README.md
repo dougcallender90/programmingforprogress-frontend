@@ -1,4 +1,4 @@
-#### Clone me!
+#### Clone me!...
 
 `git clone https://github.com/hackoregon/programmingforprogress-frontend.git`
 
